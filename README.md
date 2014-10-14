@@ -4,7 +4,7 @@
 
 ## Install
 
- $npm install hash
+ $npm install hashtags
 
 ## Usage
 
