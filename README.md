@@ -5,7 +5,7 @@
 
 ## Install
 
- $npm install hashtags
+ $ npm install hashtags
 
 ## Usage
 
