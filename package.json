@@ -16,6 +16,6 @@
   "author": {
     "name": "vijayaraman"
   },
-  "readme": "# Hashtag\n\nThis npm is used to getting the total hashtag values from given string.\n\n## Install\n\n $npm install hashtags \n\n## Usage\n\n  var hash = require('hash');\n\n  console.log(hash('Example site http://www.example.com/#first/text #text # contains#three #'));\n // [ '#first', '#text', '#three' ]\n\nThis npm used to return all hashtags from given string. Enjoy with hash!\n",
+  "readme": "# Hashtag\n\nThis npm is used to getting the total hashtag values from given string.\n\n## Install\n\n $npm install hashtags \n\n## Usage\n\n  var hash = require('hash');\n\n  console.log(hash('Example site http://www.example.com/#first/text #text # contains#three #'));\n\n // [ '#first', '#text', '#three' ]\n\nThis npm used to return all hashtags from given string. Enjoy with hash!\n",
   "readmeFilename": "README.md"
 }
