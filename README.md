@@ -11,8 +11,8 @@
 
     var hash = require('hashtags');
     
-    console.log(hash('Example site http://www.example.com/#first/text #text # contains#three #'));
+    console.log(hash('Example site http://www.example.com/#first/text #text # contains#three #i #'));
     
-    //[ '#first', '#text', '#three' ]
+    //[ '#first', '#text', '#three', #i ]
     
    This npm used to return all hashtags from given string. Enjoy with hash!
